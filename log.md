@@ -1,20 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 2, 2022
+<!-- ### Day 0: February 2, 2022
 
 **Today's Progress**
 Today I'm starting the 100 Days of Code Challenge
 **Thoughts**:
-I want to start learning Ruby on Rails while cleaning up some previous projects.
+I want to start learning Ruby on Rails while cleaning up some previous projects. -->
 
-**Link(s) to work**:
+### Day 6: February 8, 2022
 
-<!-- ### Day 2: June 27, 2020 (Example 2)
+**Today's Progress**: Class today was...a lot. Spent some time on my portfolio and then a little bit of review on Codewars.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I go back and forth feeling like this is the right path for me. I know it's been a short amount of time and I KNOW I have so much more knowledge under my belt than even a week ago but it is still tough. I've heard before that if there isn't a struggle, it probably isn't worth it. Time to keep pressing on!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String]()
-2. [Title Case a Sentence]() -->
+Didn't pass all the tests but did get to see how flexible (and readable) Python can be.
+
+def spin_words(sentence): # Your code goes here
+result = ""
+for char in sentence:
+result = char + result
+return result
